@@ -1,17 +1,28 @@
-# HELICO RESTO — Application web mobile (PWA)
+# HELICO RESTO — application web mobile
 
-## Installation
-Décompressez le ZIP, puis publiez le contenu du dossier `helicoresto-app` sur un hébergement HTTPS (GitHub Pages, Netlify, Vercel…). Ouvrez l'URL sur iPhone dans Safari, puis utilisez Partager > Sur l'écran d'accueil. Pour tester sur ordinateur, lancez `python3 -m http.server 8080` dans ce dossier et ouvrez http://localhost:8080.
+Application PWA statique à déployer sur GitHub Pages. Le dépôt doit contenir **index.html à la racine**.
 
-## Fonctions
-Accueil, recherche, filtres, fiches, favoris, carte OpenStreetMap (Leaflet), édition locale, import/export JSON, mode installable et cache PWA.
+## État du catalogue
 
-## Limites de cette première version
-- Le site public HelicoResto.com annonce plus de 220 hélisurfaces, mais **8 fiches de départ** sont intégrées dans cette version. Ce n'est pas une extraction exhaustive.
-- Deux fiches ont des coordonnées GPS vérifiées sur les pages sources. Les autres ne sont pas placées arbitrairement sur la carte.
-- Les photographies sont des illustrations génériques, pas des photographies certifiées des établissements.
-- L'édition et les favoris sont sauvegardés dans le navigateur, sans compte ni base de données distante. Les mises à jour ne sont pas publiées automatiquement.
-- Les informations aéronautiques sont indicatives, non destinées à la navigation, et doivent être confirmées avant chaque vol.
-- Le fonctionnement hors connexion est partiel (fonds de carte et photos externes nécessitent une connexion).
+Cette livraison contient **20 fiches de départ**, dont **15 fiches avec une URL de photo associée au lieu**. Ce n'est **pas** une copie intégrale des plus de 220 hélisurfaces annoncées par le site source. Les photos ne sont pas embarquées : elles sont appelées depuis les sites hébergeurs et peuvent devenir indisponibles. Vérifier les droits d'utilisation et obtenir l'autorisation de reproduction avant toute diffusion commerciale.
 
-Sources principales : https://www.helicoresto.com/ ; https://www.helicoresto.com/region-sud-est/le-domaine-de-verchant/ ; https://www.helicoresto.com/region-sud-est/chateau-de-fonscolombe/
+## Fonctionnalités
+
+Accueil, recherche, catégories, filtres régionaux, carte Leaflet/OpenStreetMap, fiches (informations aéronautiques, contacts, photos), favoris persistants, partage, édition locale, import/export JSON, installation PWA. La carte nécessite une connexion pour les fonds OpenStreetMap. Les modifications depuis l'éditeur sont locales au navigateur et ne modifient pas le dépôt.
+
+## GitHub Pages
+
+1. Créer le dépôt `helicoresto-app` (public si GitHub Pages gratuit).
+2. Ajouter **le contenu** de ce dossier à la racine du dépôt.
+3. Dans **Settings > Pages**, sélectionner **Deploy from a branch**, branche `main`, dossier `/ (root)`.
+4. Ouvrir l'URL publiée puis « Sur l'écran d'accueil » depuis Safari sur iPhone.
+
+## Importation complémentaire
+
+Le workflow **Actions > Prévisualiser les fiches HelicoResto > Run workflow** lance une collecte prudente des pages publiques identifiées dans les sitemaps, en respectant `robots.txt`. Il crée un artefact `fiches-a-verifier` contenant `import-review.json`. **Il ne publie pas automatiquement** les nouvelles fiches : les coordonnées, les autorisations d'atterrissage, les images et les données de sécurité doivent être revues manuellement avant intégration dans `data/venues.json` et `data/fallback-data.js`.
+
+Pour lancer localement : `pip install requests beautifulsoup4` puis `python scripts/sync_catalog.py`.
+
+## Sécurité aéronautique
+
+Le guide ne remplace pas les publications officielles, la réglementation, les autorisations de poser, les NOTAM ni la reconnaissance de la zone. Certaines informations historiques peuvent être périmées, et certains établissements peuvent ne plus accepter d'hélicoptères. **Toujours vérifier directement avant le vol.**

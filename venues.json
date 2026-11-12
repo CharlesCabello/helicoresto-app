@@ -21,14 +21,15 @@
     "images": [
       "https://www.domainedeverchant.com/media/cache/webp/images/navigation/menu-default.webp"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.domainedeverchant.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.domainedeverchant.com/",
     "featured": true,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.domainedeverchant.com/media/cache/webp/images/navigation/menu-default.webp"
   },
   {
     "id": "fonscolombe",
@@ -53,14 +54,15 @@
     "images": [
       "https://www.yonder.fr/sites/default/files/contenu/destinations/Fonscolombe1.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.yonder.fr",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.fonscolombe.com/",
     "featured": true,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.yonder.fr/sites/default/files/contenu/destinations/Fonscolombe1.jpg"
   },
   {
     "id": "belvedere",
@@ -84,14 +86,15 @@
     "images": [
       "https://static.wixstatic.com/media/d3f766_e87130ec18914c069edfbd916e80211e~mv2.jpg/v1/fill/w_980%2Ch_654%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/d3f766_e87130ec18914c069edfbd916e80211e~mv2.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur static.wixstatic.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.lebelvedere-lauzerte.com/",
     "featured": true,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://static.wixstatic.com/media/d3f766_e87130ec18914c069edfbd916e80211e~mv2.jpg/v1/fill/w_980%2Ch_654%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/d3f766_e87130ec18914c069edfbd916e80211e~mv2.jpg"
   },
   {
     "id": "fontenille",
@@ -115,14 +118,15 @@
     "images": [
       "https://www.myboutiquehotel.com/photos/101922/domaine-de-fontenille-lauris-075-19054-2220x1400.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.myboutiquehotel.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.domainedefontenille.com/",
     "featured": true,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.myboutiquehotel.com/photos/101922/domaine-de-fontenille-lauris-075-19054-2220x1400.jpg"
   },
   {
     "id": "gaude",
@@ -147,14 +151,15 @@
     "images": [
       "https://www.studiofremont.fr/00DATA/cms/gaude/new/intro/7.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.studiofremont.fr",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.chateaudelagaude.com/",
     "featured": true,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.studiofremont.fr/00DATA/cms/gaude/new/intro/7.jpg"
   },
   {
     "id": "mas",
@@ -178,14 +183,15 @@
     "images": [
       "https://cf.bstatic.com/xdata/images/hotel/max1024x768/707148965.jpg?k=a421f6876c0bc2ebcad3185271047216f1a1a71367c99119a2c4092d250d5527&o="
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur cf.bstatic.com",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.herbesblanches.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/707148965.jpg?k=a421f6876c0bc2ebcad3185271047216f1a1a71367c99119a2c4092d250d5527&o="
   },
   {
     "id": "minimes",
@@ -210,14 +216,15 @@
     "images": [
       "https://www.yonder.fr/sites/default/files/styles/lg-insert/public/contenu/destinations/Piscine-Exterieure-Couvent-des-Minimes.jpg?itok=CArQ6c-M"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.yonder.fr",
     "windsock": "Oui",
     "helipadMark": "Oui",
     "openAllYear": "Oui",
     "website": "https://www.couventdesminimes-hotelspa.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.yonder.fr/sites/default/files/styles/lg-insert/public/contenu/destinations/Piscine-Exterieure-Couvent-des-Minimes.jpg?itok=CArQ6c-M"
   },
   {
     "id": "vieuxlogis",
@@ -241,14 +248,15 @@
     "images": [
       "https://woody.cloudly.space/app/uploads/dordogne-perigord/2024/11/thumbs/DSC0291-002-640x480.webp"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur woody.cloudly.space",
     "windsock": "Oui",
     "helipadMark": "Oui",
     "openAllYear": "Oui",
     "website": "https://www.vieux-logis.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://woody.cloudly.space/app/uploads/dordogne-perigord/2024/11/thumbs/DSC0291-002-640x480.webp"
   },
   {
     "id": "putelat",
@@ -272,14 +280,15 @@
     "images": [
       "https://besthotel.net/data/Photos/1920x1080w/15272/1527214/1527214177/Hotel-Le-Parc-La-Table-De-Franck-Putelat-Carcassonne-Exterior.JPEG"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur besthotel.net",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.franck-putelat.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://besthotel.net/data/Photos/1920x1080w/15272/1527214/1527214177/Hotel-Le-Parc-La-Table-De-Franck-Putelat-Carcassonne-Exterior.JPEG"
   },
   {
     "id": "caudalie",
@@ -303,14 +312,15 @@
     "images": [
       "https://www.yonder.fr/sites/default/files/destinations/source%20de%20caudlaie%20Bastide%20lac%20cygnes_GdeLaubier_2014.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.yonder.fr",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.sources-caudalie.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.yonder.fr/sites/default/files/destinations/source%20de%20caudlaie%20Bastide%20lac%20cygnes_GdeLaubier_2014.jpg"
   },
   {
     "id": "manville",
@@ -335,14 +345,15 @@
     "images": [
       "https://www.myprovence.fr/sites/default/files/poi/5217671/9769615_2021-04-04T1020140000009525857.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.myprovence.fr",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.domainedemanville.fr/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.myprovence.fr/sites/default/files/poi/5217671/9769615_2021-04-04T1020140000009525857.jpg"
   },
   {
     "id": "lacoste",
@@ -367,14 +378,15 @@
     "images": [
       "https://sothebys-md.brightspotcdn.com/dims4/default/93d94da/2147483647/strip/true/crop/2126x1418%2B0%2B0/resize/2048x1366%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F74%2Fa9%2Fa181b66d4e799ee1e2a7343298b3%2Fla-coste-6-17-825.jpg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur sothebys-md.brightspotcdn.com",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.chateau-la-coste.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://sothebys-md.brightspotcdn.com/dims4/default/93d94da/2147483647/strip/true/crop/2126x1418%2B0%2B0/resize/2048x1366%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F74%2Fa9%2Fa181b66d4e799ee1e2a7343298b3%2Fla-coste-6-17-825.jpg"
   },
   {
     "id": "castigno",
@@ -399,14 +411,15 @@
     "images": [
       "https://villagecastigno.com/media/cache/jadro_resize/rc/Inwn37981741701469/jadroRoot/medias/623992af67e58/623992bda1a18/copie-de-vc_jul15_room_brutrose_defr-2-high-res.jpeg"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur villagecastigno.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://villagecastigno.com/fr/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://villagecastigno.com/media/cache/jadro_resize/rc/Inwn37981741701469/jadroRoot/medias/623992af67e58/623992bda1a18/copie-de-vc_jul15_room_brutrose_defr-2-high-res.jpeg"
   },
   {
     "id": "treyne",
@@ -431,14 +444,15 @@
     "images": [
       "https://expressions-images.imgix.net/destination/france/dordogne/chateau-de-la-treyne-fe373/chateau-de-la-treyne-river-views.jpg?auto=format%2Ccompress&auto=format%2Ccompress%2Cenhance%3Fw%3D414&crop=entropy&fit=crop&h=255&h=434&w=741"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur expressions-images.imgix.net",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.chateaudelatreyne.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://expressions-images.imgix.net/destination/france/dordogne/chateau-de-la-treyne-fe373/chateau-de-la-treyne-river-views.jpg?auto=format%2Ccompress&auto=format%2Ccompress%2Cenhance%3Fw%3D414&crop=entropy&fit=crop&h=255&h=434&w=741"
   },
   {
     "id": "suquet",
@@ -462,14 +476,15 @@
     "images": [
       "https://www.relaischateaux.com/_next/image/?q=75&url=https%3A%2F%2Fd1m7xnn75ypr6t.cloudfront.net%2Fimages%2Fmedia%2F0FAEADCF-C6B0-41C4-91958B469A955FFC%2F%3Fw%3D1200%26h%3D1920&w=2048"
     ],
-    "imageOrigin": "photographie de l’établissement identifiée sur un site tiers (affichage distant)",
+    "imageOrigin": "Visuel de l’établissement identifié sur www.relaischateaux.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.bras.fr/fr/le-suquet",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.relaischateaux.com/_next/image/?q=75&url=https%3A%2F%2Fd1m7xnn75ypr6t.cloudfront.net%2Fimages%2Fmedia%2F0FAEADCF-C6B0-41C4-91958B469A955FFC%2F%3Fw%3D1200%26h%3D1920&w=2048"
   },
   {
     "id": "ambrosia",
@@ -488,16 +503,19 @@
     "source": "https://www.helicoresto.com/region-sud-ouest/restaurant-lambrosia/",
     "approach": "Dans la CTR de Carcassonne ; zone de posé restreinte près du restaurant. Axe est-ouest, attention aux lignes et à l’arrivée en angle fort par vent d’ouest.",
     "description": "Table de saison aux portes de Carcassonne.",
-    "image": "",
-    "images": [],
-    "imageOrigin": "",
+    "image": "https://www.ambrosia-pezens.com/wp-content/uploads/2021/08/20210728_028-scaled-e1630427583580.jpg",
+    "images": [
+      "https://www.ambrosia-pezens.com/wp-content/uploads/2021/08/20210728_028-scaled-e1630427583580.jpg"
+    ],
+    "imageOrigin": "Visuel de l’établissement identifié sur www.ambrosia-pezens.com",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Non",
     "website": "https://www.ambrosia-pezens.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.ambrosia-pezens.com/wp-content/uploads/2021/08/20210728_028-scaled-e1630427583580.jpg"
   },
   {
     "id": "saintgery",
@@ -517,16 +535,19 @@
     "source": "https://www.helicoresto.com/non-classe/domaine-saint-gery/",
     "approach": "Terrain vaste ; ligne traversant le champ à repérer impérativement avant toute approche selon le pilote.",
     "description": "Cuisine de produits agricoles du domaine et de saison, table du Quercy.",
-    "image": "",
-    "images": [],
-    "imageOrigin": "",
+    "image": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/642863942.jpg?k=b7f1f8f3658e8ae96a8daab972828272cce82cc4b645974844a24bbff44da0f3&o=",
+    "images": [
+      "https://q-xx.bstatic.com/xdata/images/hotel/max1200/642863942.jpg?k=b7f1f8f3658e8ae96a8daab972828272cce82cc4b645974844a24bbff44da0f3&o="
+    ],
+    "imageOrigin": "Visuel de l’établissement identifié sur q-xx.bstatic.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.saint-gery.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/642863942.jpg?k=b7f1f8f3658e8ae96a8daab972828272cce82cc4b645974844a24bbff44da0f3&o="
   },
   {
     "id": "bonheur",
@@ -545,16 +566,19 @@
     "source": "https://www.helicoresto.com/region-sud-ouest/le-bonheur-est-dans-le-sud/",
     "approach": "Pose sur terrain de camping-car environ 100 m du restaurant, prévenir l’établissement. Attention aux arbres et à la ligne en décollage.",
     "description": "Cuisine de terroir près de Millau.",
-    "image": "",
-    "images": [],
-    "imageOrigin": "",
+    "image": "https://cdn.eat-list.fr/establishment/photo/gallery_photo/12230-la-cavalerie/le-bonheur-est-dans-le-sud_75333_12c.jpg",
+    "images": [
+      "https://cdn.eat-list.fr/establishment/photo/gallery_photo/12230-la-cavalerie/le-bonheur-est-dans-le-sud_75333_12c.jpg"
+    ],
+    "imageOrigin": "Visuel de l’établissement identifié sur cdn.eat-list.fr",
     "windsock": "Oui",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.lebonheurestdanslesud.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://cdn.eat-list.fr/establishment/photo/gallery_photo/12230-la-cavalerie/le-bonheur-est-dans-le-sud_75333_12c.jpg"
   },
   {
     "id": "fauceille",
@@ -574,16 +598,19 @@
     "source": "https://www.helicoresto.com/non-classe/la-fauceille/",
     "approach": "Le site réserve cette DZ exiguë aux pilotes expérimentés, avec ligne électrique à l’approche sud-ouest et contraintes CTR.",
     "description": "Hôtel-restaurant à Perpignan.",
-    "image": "",
-    "images": [],
-    "imageOrigin": "",
+    "image": "https://www.lafauceille.com/lib/uploads/img/big/photo65-1-actu.jpg",
+    "images": [
+      "https://www.lafauceille.com/lib/uploads/img/big/photo65-1-actu.jpg"
+    ],
+    "imageOrigin": "Visuel de l’établissement identifié sur www.lafauceille.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.lafauceille.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://www.lafauceille.com/lib/uploads/img/big/photo65-1-actu.jpg"
   },
   {
     "id": "garrevaques",
@@ -604,15 +631,18 @@
     "source": "https://www.helicoresto.com/non-classe/la-pavillon-du-chateau-chateau-de-garrevaques/",
     "approach": "Approche en angle faible vers un grand champ ; posé possible également près de la piscine selon la fiche.",
     "description": "Château-hôtel et restaurant près de Revel.",
-    "image": "",
-    "images": [],
-    "imageOrigin": "",
+    "image": "https://cdn.frenchweddingstyle.com/2025/10/chateau-de-garrevaques-south-of-france-occitanie-bezier-wedding-venue-13.jpg",
+    "images": [
+      "https://cdn.frenchweddingstyle.com/2025/10/chateau-de-garrevaques-south-of-france-occitanie-bezier-wedding-venue-13.jpg"
+    ],
+    "imageOrigin": "Visuel de l’établissement identifié sur cdn.frenchweddingstyle.com",
     "windsock": "Non",
     "helipadMark": "Non",
     "openAllYear": "Oui",
     "website": "https://www.lepavillonduchateau.com/",
     "featured": false,
     "verified": true,
-    "lastChecked": "2026-11-13"
+    "lastChecked": "2026-11-13",
+    "imageSource": "https://cdn.frenchweddingstyle.com/2025/10/chateau-de-garrevaques-south-of-france-occitanie-bezier-wedding-venue-13.jpg"
   }
 ]

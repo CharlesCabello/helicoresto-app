@@ -17,7 +17,7 @@
 <div class="desktop-rail"><div class="desktop-brand"><span class="brand-mark">✧</span><b>HELICO <i>RESTO</i></b><small>ÉDITIONS FRANCE</small></div><div class="rail-hint">L’art d’atterrir au bon endroit.</div><div class="desktop-minor">Votre guide gastronomique aérien<br>Un annuaire indépendant · © HELICO RESTO</div></div>
 <div class="shell" id="shell">
   <header class="topbar" id="topbar"><button class="top-logo" data-tab="home" aria-label="Accueil"><span class="logo-icon">✧</span><span>HELICO <strong>RESTO</strong></span></button><div class="top-actions"><span class="live-dot"></span><span class="edition">GUIDE FRANCE</span><button class="icon-btn top-gear" data-tab="more" aria-label="Options"><svg><use href="#i-settings"/></svg></button></div></header>
-  <main id="view" tabindex="-1"><div class="loading-screen"><div class="load-icon">✧</div><div>Préparation de vos escales...</div></div></main>
+  <main id="view" tabindex="-1"><div class="loading-screen"><div class="load-icon">✧</div><div>Chargement des établissements...</div></div></main>
   <nav class="tabbar" aria-label="Navigation principale"><button class="tab active" data-tab="home"><svg><use href="#i-home"/></svg><span>Accueil</span></button><button class="tab" data-tab="explore"><svg><use href="#i-search"/></svg><span>Explorer</span></button><button class="tab" data-tab="map"><svg><use href="#i-map"/></svg><span>Carte</span></button><button class="tab" data-tab="favorites"><svg><use href="#i-heart"/></svg><span>Favoris</span></button><button class="tab" data-tab="more"><svg><use href="#i-grid"/></svg><span>Plus</span></button></nav>
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
@@ -40,4 +40,4 @@
   <symbol id="i-check" viewBox="0 0 24 24"><path d="m4 12 5 5L20 6"/></symbol>
   <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 16V3m-5 5 5-5 5 5M5 13v8h14v-8"/></symbol>
 </svg>
-</body></html>
+<script>window.addEventListener('load',function(){setTimeout(function(){var el=document.querySelector('.loading-screen');if(el){el.innerHTML='<h2>Impossible de démarrer l’application</h2><p>Vérifiez que les fichiers app.js et data/fallback-data.js sont bien publiés à la racine du dépôt GitHub.</p><button onclick="location.reload()">Réessayer</button>'; }},5000)})</script></body></html>

@@ -1,5 +1,3 @@
-HELICO RESTO V4.0.0
-
-Un seul fichier index.html est nécessaire. Importez index.html à la racine du dépôt GitHub. Supprimez les anciens fichiers sw.js et manifest.webmanifest du dépôt pour éviter les caches précédents.
-
-20 fiches intégrées, navigation et favoris. Les images et la carte utilisent des ressources en ligne. Les données aéronautiques doivent être vérifiées avant vol.
+HELICO RESTO V5.0.0
+Déposer index.html à la racine du dépôt GitHub Pages.
+Les 20 fiches de la V4 sont conservées. Photos externes nécessitant Internet.

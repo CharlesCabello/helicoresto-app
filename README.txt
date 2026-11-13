@@ -1,26 +1,30 @@
-HELICO RESTO — VERSION 5.2.0
-===========================
+HELICO RESTO - VERSION 5.3.0
+================================
 
-CONTENU
-- index.html : application HELICO RESTO en un seul fichier.
-- README.txt : informations sur la version et son installation.
+CONTENU DE L'ARCHIVE
+- index.html : application complète, incluant les photos et les icônes.
+- README.txt : informations et installation.
 
-NOUVEAUTÉS V5.2
-- Présentation du logo HELICO RESTO en haut à gauche.
-- Diaporama de cinq photographies d'établissements du catalogue en arrière-plan de l'accueil.
-- Affichage de l'image sur toute la zone d'accueil de l'application.
-- Filtre sombre pour améliorer la lisibilité du texte.
-- Recherche centrale conservée.
-- Transition automatique entre les images.
+NOUVEAUTÉS
+- Logo officiel HelicoResto fourni par le propriétaire en haut à gauche.
+- Diaporama de cinq visuels d'illustration montrant un hélicoptère.
+- Ombre/filtre sur le diaporama, plein écran et recherche centrale conservés.
+- Nouvelle icône d'écran d'accueil iPhone et favicon, à partir du logo officiel.
+- Les images du diaporama et l'icône sont intégrées au fichier HTML.
+- La carte reste basée sur Leaflet / OpenStreetMap et nécessite Internet.
 
-INSTALLATION SUR GITHUB PAGES
-1. Ouvrir le dépôt GitHub de l'application.
-2. Remplacer le fichier index.html situé à la racine du dépôt par celui de ce ZIP.
-3. Le README.txt est facultatif pour le fonctionnement, mais peut être ajouté à la racine du dépôt.
-4. Attendre la publication GitHub Pages et actualiser l'application.
+IMPORTANT
+Les visuels du diaporama sont des illustrations créatives et non des
+photographies des établissements référencés ou des zones de posé réelles.
+Ne jamais utiliser ces images pour préparer un vol.
 
-REMARQUES
-- Les images et les fonds de carte distants nécessitent une connexion Internet.
-- Les photographies de ce diaporama proviennent des liens déjà présents dans le catalogue et ne sont pas garanties identiques à celles du diaporama du site helicoresto.com.
-- Les informations aéronautiques ne remplacent pas la préparation réglementaire du vol ni les autorisations nécessaires.
-- Le rendu sur iPhone n'a pas été testé intégralement.
+INSTALLATION GITHUB PAGES
+1. Ouvrir le dépôt GitHub qui héberge l'application.
+2. Remplacer le fichier index.html à la racine du dépôt.
+3. Publier le changement (Commit changes).
+4. Sur iPhone, ouvrir le site avec Safari.
+5. Pour actualiser l'icône installée, supprimer l'ancienne icône de
+   l'écran d'accueil, puis Partager > Sur l'écran d'accueil.
+6. Si l'ancienne version s'affiche, actualiser Safari ou vider son cache.
+
+Les contenus externes (carte, polices, photos des fiches) nécessitent Internet.
